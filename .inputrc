@@ -1,0 +1,4 @@
+set completion-ignore-case on
+set show-all-if-ambiguous off
+TAB: menu-complete
+"\e[Z": menu-complete-backward #Bash 4.0+ only
