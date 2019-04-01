@@ -1,0 +1,17 @@
+.net core test explorer
+angular essentials
+bracket pair colorizer
+c#
+debugger from chrome
+elixirls: elixir support and debug...
+gitlens
+jasmine test explorer
+nuget package manager
+path intellisense
+peacock
+powershell
+prittier
+python
+rust (rls)
+test explorer ui
+vs live share
